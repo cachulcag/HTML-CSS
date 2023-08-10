@@ -1,0 +1,30 @@
+#titulo {
+    color: rgb(61, 151, 167);
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    color: rgb(255, 218, 9);
+}
+
+#subtitulo {
+    color: blue;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: blueviolet;
+}
+
+.green {
+    color: green;
+}
+#adicional{
+    color: rgb(83, 110, 43);
+}

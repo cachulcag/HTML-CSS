@@ -1,0 +1,16 @@
+* {
+    background-color: aqua;
+}
+
+h1,
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 0, 0, 0, 0;
+}
